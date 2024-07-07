@@ -1,3 +1,14 @@
+# Prompt
+I have a resume containing information about my work experience, skills, and education, etc. Please analyze the resume and provide the extracted data in a clear, structured format, similar to JSON. Here are the specific sections I'd like to see extracted (if present):
+
+Name
+Contact Information (Email & Phone)
+Summary
+Work Experience (Company Name, Job Title, Dates, Key Responsibilities & Achievements - bullet points)
+Skills (Technical and Soft Skills - bullet points)
+Education (School Name, Degree, Dates)
+Projects
+Cerifications
 # Output
 ```JSON
 {
