@@ -1,4 +1,5 @@
 # Output
+```JSON
 {
   "Name": "Arnav Shah",
   "Contact Information": {
@@ -171,3 +172,4 @@
     }
   ]
 }
+```
